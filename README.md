@@ -1,8 +1,7 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224040164
+# Name: KOWSHIK P
 
 
 # AIM:
@@ -40,6 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1013" height="941" alt="image" src="https://github.com/user-attachments/assets/170d78ff-cbbc-49f6-9a72-504b27964d3e" />
 
 
 
@@ -60,6 +60,9 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+<img width="1194" height="857" alt="image" src="https://github.com/user-attachments/assets/1a1223f5-acc9-4f25-ba40-8a61fa27090e" />
+
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -67,6 +70,8 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+
+<img width="960" height="741" alt="image" src="https://github.com/user-attachments/assets/27fb29b7-1630-4ed3-afc0-86cb0db944b7" />
 
 
 
@@ -80,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1129" height="751" alt="image" src="https://github.com/user-attachments/assets/c007faba-c9a0-463f-b79b-d89c6e104673" />
 
 
 
@@ -98,6 +104,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="840" height="967" alt="image" src="https://github.com/user-attachments/assets/84de2693-dbd9-44cf-81b5-17cc83b56aa5" />
 
 
 
@@ -119,6 +126,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1050" height="1016" alt="image" src="https://github.com/user-attachments/assets/dd1e8138-0d74-4d12-8049-88536c6f93da" />
 
 
 
